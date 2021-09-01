@@ -1,4 +1,4 @@
-### Hi there(ゝ∀･)
+### Hi thereﾟ ∀ﾟ)ノ
 
 -🔭 I’m currently working on `C++`, `Javascript`  
 -🌱 I’m currently learning SICP&CSAPP  

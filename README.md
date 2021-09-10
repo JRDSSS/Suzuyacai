@@ -1,5 +1,5 @@
-### Hi thereﾟ ∀ﾟ)ノ
-
+### Hi thereﾟ ∀ﾟ)ノ  
+-😢 I'm a junior college student from China mainland.
 -🔭 I’m currently working on `C++`, `Javascript`  
 -🌱 I’m currently learning SICP&CSAPP  
 -🤔 I’m looking for help with Rust and Go  
